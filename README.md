@@ -39,4 +39,11 @@ Here are some ideas to get you started:
 ![https://www.instagram.com/kristoforusi.a/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://github.com/Irgivensa12](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+##### Play with me 🎮
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irgivensa12/irgivensa12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irgivensa12/irgivensa12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/irgivensa12/irgivensa12/output/pacman-contribution-graph.svg">
+</picture>
+
 ⚡ Fun fact: **Still single!**
