@@ -35,11 +35,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 
-##### Connect with me
-![https://www.instagram.com/kristoforusi.a?igsh=djlpOHN5emJvaHEw](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://github.com/Irgivensa12](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irgivensa12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irgivensa12&layout=compact&theme=algolia"/>
+</a>
+</p>
 
-##### Play with me 🎮
+### Connect with me
+[![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://www.instagram.com/kristoforusi.a?igsh=djlpOHN5emJvaHEw)
+
+### Play with me 🎮
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irgivensa12/irgivensa12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irgivensa12/irgivensa12/output/pacman-contribution-graph.svg">
