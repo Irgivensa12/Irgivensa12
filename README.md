@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 
 ##### Connect with me
-![https://www.instagram.com/kristoforusi.a/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.instagram.com/kristoforusi.a?igsh=djlpOHN5emJvaHEw](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://github.com/Irgivensa12](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ##### Play with me 🎮
